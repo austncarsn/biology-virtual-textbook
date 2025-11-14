@@ -1,0 +1,12 @@
+# Ignore all files in the parent Downloads directory and other unrelated files
+/Downloads/
+/*
+!src/
+!public/
+!index.html
+!package.json
+!package-lock.json
+!vite.config.ts
+!README.md
+!tsconfig.json
+!.gitignore
