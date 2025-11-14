@@ -4,7 +4,7 @@ An interactive, visually engaging educational resource for learning cell biology
 
 ## 🌟 Features
 
-- **Interactive Diagrams**: High-quality, labeled illustrations of cellular organelles and processes
+- **Interactive Diagrams**: High-quality, illustrations of cellular organelles and processes
 - **Comprehensive Glossary**: Expandable definitions with audio playback for accessibility
 - **Visual Learning**: Color-coded categories and intuitive navigation
 - **Downloadable Resources**: Generate and download PDF versions of figures
