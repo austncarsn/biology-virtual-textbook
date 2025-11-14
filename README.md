@@ -2,8 +2,6 @@
 
 An interactive, visually engaging educational resource for learning cell biology through detailed diagrams, comprehensive glossary, and downloadable materials. Designed to make complex cellular structures accessible and memorable for students and educators.
 
-![Cell Biology Cover](src/assets/biology-cover.png)
-
 ## 🌟 Features
 
 - **Interactive Diagrams**: High-quality, labeled illustrations of cellular organelles and processes
